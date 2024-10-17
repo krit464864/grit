@@ -1,0 +1,11 @@
+/* styles.css */
+.profile {
+    width: 300px;
+    height: 300px;
+    border-radius: 0%; /* ทำให้รูปเป็นวงกลม */
+    object-fit: cover; /* ปรับให้รูปพอดี */
+    margin: 10px auto;
+    display: block;
+    border: 2px solid #333;
+  }
+  
